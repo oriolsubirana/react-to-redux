@@ -1,0 +1,1 @@
+export { MemberListContainer } from './member-collection.container';
